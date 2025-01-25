@@ -1,7 +1,18 @@
-# AI Development Workshop Series
+# Work in Progress - AI Development Workshop Series
+
 
 ## Overview
-This repository contains a series of workshops focused on building AI applications and agents. Each workshop provides hands-on experience with different aspects of AI development, from basic LLM interactions to complex agent architectures.
+This repository contains a series of advanced workshops focused on building AI applications and agents. 
+Each workshop provides hands-on experience with different aspects of AI development, from basic LLM interactions to complex agent architectures.
+
+If you seek an introductory workshop, you can find further references [here](https://github.com/aicampg/aisg-7-day-aiimmersion/blob/main/README.md)
+
+## Quick Setup
+
+This workshop has been tuned to work with IDX, but should work with your custom development environment as well, after some edits.
+
+You can start the workshop in a cloud environment, interacting through the browser 
+[LINK](https://idx.google.com/import?url=https://github.com/oomti/aicamp-aiagents-workshop)
 
 ## Repository Structure
 ```
