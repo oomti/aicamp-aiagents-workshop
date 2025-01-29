@@ -53,8 +53,8 @@
       # Runs when a workspace is first created
       onCreate = {
         create_venv = "python -m venv lab_env";
+        start_venv = "source lab_env/bin/activate";
         msget = ''
-            cd ./msget
             chmod +x scripts/msget.sh
             scripts/msget.sh extensions.txt
         '';
@@ -65,7 +65,6 @@
       onStart = {
         start_venv = "source lab_env/bin/activate";
         msget = ''
-            cd ./msget
             chmod +x scripts/msget.sh
             scripts/msget.sh extensions.txt
         '';
