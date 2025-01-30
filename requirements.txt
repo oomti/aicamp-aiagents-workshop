@@ -1,0 +1,5 @@
+pydantic
+pydantic-ai
+langgraph
+pydantic-graph
+python-dotenv
